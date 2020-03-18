@@ -20,10 +20,25 @@ The following were the key challenges faced in implementing this project:
 
 ## Installation
 
-Clone this repository to using the following command: 
-
-
+1. Clone this repository to using the following command: 
+```bash
+git clone https://github.com/nirajsuresh/Maze-Solver.git
+```
+2. Open a command window in the Maze-Solver folder and run the following docker command:
+```bash
+docker run -p80:80 -p8765:8765 -v %cd%:/source -it klavins/enviro:v1.6
+```
 ## Execution
-
-You can rename the current file by clicking the file name in the navigation bar or by clicking the **Rename** button in the file explorer.
+1. Open a web browser and navigate to localhost
+2. To compile and run the code, run the following commands:
+```bash
+esm start
+```
+```bash
+make
+```
+```bash
+enviro
+```
+Maze Solver will now appear in the web browser.
 

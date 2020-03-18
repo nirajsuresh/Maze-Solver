@@ -1,7 +1,7 @@
 {
     "name": "Wanderer",
     "type": "dynamic",
-    "description": "Replace this string with a description",
+    "description": "The amazing maze solving wanderer",
     "shape": [
         { "x": -10, "y": 7 },
         { "x": -7, "y": 10 },
