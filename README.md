@@ -43,4 +43,4 @@ enviro
 Maze Solver will now appear in the web browser.
 
 ## Acknowledgments
-This project makes extensive use of the **enviro** library developed by klavinslab (© 2019 University of Washington and Eric Klavins) and material provided as part of the University of Washington course *EE P 520: Software Engineering for Embedded Application*.
+This project makes extensive use of the **enviro** library developed by klavinslab (© 2019 University of Washington and Eric Klavins) and material provided as part of the University of Washington course *EE P 520: Software Engineering for Embedded Applications*.
